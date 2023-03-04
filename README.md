@@ -55,13 +55,13 @@ Segue Endpoints disponíveis<br><br>
         {
             "id": 1,
             "nome": "Andersen",
-            "dataNascimento": 604810800000,
+            "dataNascimento": 03-03-2002,
             "endereco": [
                 {
                     "id": 1,
-                    "logradouro": "São Borja",
+                    "logradouro": "Rua das Aves",
                     "cep": "92990000",
-                    "numero": "1171",
+                    "numero": "5020",
                     "cidade": "Eldorado do Sul",
                     "enderecoPrincipal": true
                 }
